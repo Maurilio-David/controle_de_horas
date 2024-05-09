@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866546731222",
+    "project_id": "horas-v3-bcc44",
+    "storage_bucket": "horas-v3-bcc44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866546731222:android:d5dec32479a55ce13b2177",
+        "android_client_info": {
+          "package_name": "com.maurilio.controle.horas.controle_horas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgXYKlLYAelROA8AVDlJ3fYB7db_4kuh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
